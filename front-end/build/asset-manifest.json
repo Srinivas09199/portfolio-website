@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b660a39.css",
+    "main.js": "/static/js/main.75184fd9.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/netflix.png": "/static/media/netflix.79c7db131e1aafd6870c.png",
+    "static/media/travel_website.png": "/static/media/travel_website.aea53ee929502d45a81a.png",
+    "static/media/portfolio.png": "/static/media/portfolio.46ba5d9e1b51cc035311.png",
+    "static/media/Sai Srinivas Dandangi Updated Resume.pdf": "/static/media/Sai Srinivas Dandangi Updated Resume.4d86bbf4a65afb95ea5f.pdf",
+    "static/media/profile_pic.jpg": "/static/media/profile_pic.9ae03066f588b26dd222.jpg",
+    "static/media/contact.jpg": "/static/media/contact.bf0f5e43205e7722334e.jpg",
+    "index.html": "/index.html",
+    "main.6b660a39.css.map": "/static/css/main.6b660a39.css.map",
+    "main.75184fd9.js.map": "/static/js/main.75184fd9.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b660a39.css",
+    "static/js/main.75184fd9.js"
+  ]
+}
